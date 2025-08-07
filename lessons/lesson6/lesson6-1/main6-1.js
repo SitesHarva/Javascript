@@ -1,0 +1,13 @@
+let str = 'hello ok';
+console.log(str);
+// let s = str.concat('!!!');
+// console.log(s);
+console.log(str.toUpperCase());
+console.log(str.startsWith('hel'));
+console.log(str.endsWith('lo'));
+console.log(str.substring(0,4));
+console.log(str.indexOf('e'));
+console.log(str.lastIndexOf('e'));
+console.log(str.charAt(1));
+console.log(str.replace('ll', '!!'));
+console.log(str.split(' '));
